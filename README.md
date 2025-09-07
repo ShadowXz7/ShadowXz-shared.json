@@ -1,0 +1,1 @@
+# ShadowXz-shared.json
